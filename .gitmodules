@@ -1,0 +1,6 @@
+[submodule "cantbelieve-client"]
+	path = cantbelieve-client
+	url = ../cantbelieve-client.git
+[submodule "cantbelieve-server"]
+	path = cantbelieve-server
+	url = ../cantbelieve-server.git
